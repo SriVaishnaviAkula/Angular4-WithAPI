@@ -14,7 +14,7 @@ Verify that you are running at least node v4.x.x and npm 3.x.x by running node -
 
 Clone this repo into new project folder (e.g., new-proj).
 
-git clone https://github.com/SriVaishnaviAkula/Angular2-UsingAPI.git new-proj cd new-proj
+git clone https://github.com/SriVaishnaviAkula/Angular4-WithAPI.git new-proj cd new-proj
 
 You could start writing code now and throw it all away when you're done. If you'd rather preserve your work under source control, consider taking the following steps.
 
